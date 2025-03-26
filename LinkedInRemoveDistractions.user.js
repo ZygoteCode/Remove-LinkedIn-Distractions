@@ -3,11 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  Remove all the LinkedIn distractions to get concentrated on what's really important
-// @author       GabryB03
+// @author       ZygoteCode
 // @match        https://www.linkedin.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=linkedin.com
-// @updateURL    https://github.com/GabryB03/Remove-LinkedIn-Distractions/raw/main/LinkedInRemoveDistractions.user.js
-// @downloadURL  https://github.com/GabryB03/Remove-LinkedIn-Distractions/raw/main/LinkedInRemoveDistractions.user.js
+// @updateURL    https://github.com/ZygoteCode/Remove-LinkedIn-Distractions/raw/main/LinkedInRemoveDistractions.user.js
+// @downloadURL  https://github.com/ZygoteCode/Remove-LinkedIn-Distractions/raw/main/LinkedInRemoveDistractions.user.js
 // @grant        none
 // ==/UserScript==
 
